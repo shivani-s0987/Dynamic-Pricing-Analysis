@@ -1,0 +1,14 @@
+seed: 20261028
+start_date: '2025-01-01'
+end_date: '2026-06-30'
+products: 180
+regions: [North, South, East, West, Central]
+channels: [Online, Marketplace, Retail]
+competitors: 3
+price_review:
+  relative_price_index_high: 115
+  relative_price_index_low: 85
+  high_volatility_pct: 0.08
+  low_margin_pct: 0.12
+  demand_decline_pct: -0.15
+  minimum_competitor_count: 2

@@ -1,0 +1,27 @@
+{
+  "raw_price_observations": 98288,
+  "clean_price_observations": 98280,
+  "quarantined_price_observations": 8,
+  "duplicate_ids": 1,
+  "quarantine_reasons": {
+    "invalid_discount_pct": 2,
+    "invalid_our_price;discount_reconciliation_mismatch": 1,
+    "unknown_product": 1,
+    "invalid_observation_date": 1,
+    "invalid_list_price": 1,
+    "invalid_our_price": 1,
+    "duplicate_observation_id": 1
+  },
+  "missing_values_raw": {
+    "observation_id": 0,
+    "observation_date": 1,
+    "product_id": 0,
+    "our_price": 1,
+    "list_price": 0,
+    "discount_pct": 0,
+    "region_id": 0,
+    "channel_id": 0,
+    "validation_reasons": 0
+  },
+  "status": "PASS"
+}

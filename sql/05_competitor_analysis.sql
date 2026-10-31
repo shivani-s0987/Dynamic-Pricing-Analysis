@@ -1,0 +1,1 @@
+-- See queries 13–16 in 04_pricing_analysis.sql for median benchmark, price index, coverage, and category gap analysis.

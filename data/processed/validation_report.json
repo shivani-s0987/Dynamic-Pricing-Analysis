@@ -1,0 +1,16 @@
+{
+  "checks": {
+    "products_at_least_100": true,
+    "price_observation_ids_unique": true,
+    "price_product_fk": true,
+    "positive_prices": true,
+    "discount_range": true,
+    "sales_nonnegative_quantity": true,
+    "revenue_reconciliation": true,
+    "gross_profit_reconciliation": true,
+    "competitor_positive_prices": true
+  },
+  "passed": 9,
+  "total": 9,
+  "status": "PASS"
+}
